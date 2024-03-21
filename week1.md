@@ -8,7 +8,7 @@ tags = ["week1"]
 +++
 
 
-# Week 1
+# Week 1 - Introduction to the Course
 
 \toc
 
